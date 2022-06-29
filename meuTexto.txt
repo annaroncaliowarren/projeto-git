@@ -4,8 +4,5 @@ Git é muito legal!
 
 Fazer um app de ecommerce
 
-<<<<<<< HEAD
 Muito legal, parabéns anna
-=======
 Seria legal ter notificações //Guilherme
->>>>>>> 33eafee5e46fd07e3b24c9ed977dcd7d048b22ee
