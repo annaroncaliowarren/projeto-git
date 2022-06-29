@@ -1,3 +1,5 @@
 Olá, Git!
 
 Git é muito legal!
+
+Fazer um app de ecommerce
